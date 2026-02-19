@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ファイナルスコール",
+  "base_artist": "℃-ute",
+  "createdAt": "2026-02-19T03:14:49.366738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ファイナルスコール",
+      "artist": "℃-ute",
+      "has_synced": true,
+      "path": "select/01_ファイナルスコール_°C-ute.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファイナルスコール",
+      "artist": "℃-ute",
+      "has_synced": false,
+      "path": "select/pl_01_ファイナルスコール_°C-ute.txt"
+    }
+  ]
+}
